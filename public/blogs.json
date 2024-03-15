@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/1n9x2zq/Best-Tech-Blogs-featured-image.webp",
+      "title": "The Mystery of Silverwood Manor",
+      "author": "Alicia Blackwood",
+      "author-img": "https://example.com/author1.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 45,
+      "hashtag": ["#mystery", "#thriller", "#fiction"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/1n9x2zq/Best-Tech-Blogs-featured-image.webp",
+      "title": "Beyond the Horizon",
+      "author": "Jonathan Brooks",
+      "author-img": "https://example.com/author2.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 30,
+      "hashtag": ["#adventure", "#sci-fi", "#fantasy"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/1n9x2zq/Best-Tech-Blogs-featured-image.webp",
+      "title": "The Art of Cooking",
+      "author": "Maria Sanchez",
+      "author-img": "https://i.ibb.co/1n9x2zq/Best-Tech-Blogs-featured-image.webp",
+      "posted_date": "2024-03-13",
+      "reading_time": 20,
+      "hashtag": ["#cookbook", "#recipes", "#food"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/1n9x2zq/Best-Tech-Blogs-featured-image.webp",
+      "title": "Into the Abyss",
+      "author": "David Johnson",
+      "author-img": "https://example.com/author4.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 60,
+      "hashtag": ["#horror", "#psychological", "#suspense"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/1n9x2zq/Best-Tech-Blogs-featured-image.webpxample.com/cover5.jpg",
+      "title": "The Power of Positivity",
+      "author": "Emily Davis",
+      "author-img": "https://example.com/author5.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 25,
+      "hashtag": ["#selfhelp", "#motivation", "#inspiration"]
+    }
+  ]
+  
